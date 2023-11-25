@@ -4,7 +4,7 @@
 title: Davide's Personal Website
 description: A Test Engineer's space with a background in Aerospace Engineering, exploring Aviation, Automotive, Mechanical Watches, Videogames, Manga, Movies, Music, and Art.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://your-username.github.io" # the base hostname & protocol for your site
+url: "https://dzxx1.github.io" # the base hostname & protocol for your site
 
 # Build settings
 theme: jekyll-theme-minimal # You can replace this with the name of your preferred theme
